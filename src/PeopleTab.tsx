@@ -1,0 +1,1 @@
+/* PeopleTab component will go here. Updated during next code write. */
